@@ -1,0 +1,7 @@
+.idea/
+.pio/
+.gradle/
+.vscode
+build/
+local.properties
+*.iml
